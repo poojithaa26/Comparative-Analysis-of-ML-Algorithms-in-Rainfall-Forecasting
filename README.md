@@ -1,0 +1,1 @@
+Conducted a comparative analysis of machine learning algorithms, including decision trees, SVM, and random forests, to improve accuracy in rainfall forecasting. Evaluated model performance using key metrics, achieving significant improvements in predictive capability.
